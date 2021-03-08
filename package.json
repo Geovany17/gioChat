@@ -1,0 +1,16 @@
+{
+  "name": "yovaschat",
+  "version": "1.0.0",
+  "description": "A chat for my family",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geovany Cardoza",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pusher": "^5.0.0"
+  }
+}
